@@ -1,0 +1,2 @@
+# NekoTickets
+Revolt Bot
